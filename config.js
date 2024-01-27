@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349137899189', 'KOLADE', true],
+  ['994403116923', 'KOLADE', true],
   ['2347068076820', 'SUMI', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "2347068076820" //put your bot number here
 
-global.mods = ['2349137899189','2347068076820'] 
-global.prems = ['2349137899189', '2348037020936', '2347068076820']
-global.allowed = ['2349137899189', '32460248586', '19152999993']
+global.mods = ['994403116923','2347068076820'] 
+global.prems = ['2349137899189', '994403116923', '2347068076820']
+global.allowed = ['2349137899189', '994403116923', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
